@@ -1,0 +1,9 @@
+C:\Users\ldngu\source\repos\ESP Camera\ESP Camera\obj\Release\net5.0-windows\ESP Camera.csproj.AssemblyReference.cache
+C:\Users\ldngu\source\repos\ESP Camera\ESP Camera\obj\Release\net5.0-windows\ESP_Camera.EspClass.resources
+C:\Users\ldngu\source\repos\ESP Camera\ESP Camera\obj\Release\net5.0-windows\ESP_Camera.Form1.resources
+C:\Users\ldngu\source\repos\ESP Camera\ESP Camera\obj\Release\net5.0-windows\ESP_Camera.Properties.Resources.resources
+C:\Users\ldngu\source\repos\ESP Camera\ESP Camera\obj\Release\net5.0-windows\ESP Camera.csproj.GenerateResource.cache
+C:\Users\ldngu\source\repos\ESP Camera\ESP Camera\obj\Release\net5.0-windows\ESP Camera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ldngu\source\repos\ESP Camera\ESP Camera\obj\Release\net5.0-windows\ESP Camera.AssemblyInfoInputs.cache
+C:\Users\ldngu\source\repos\ESP Camera\ESP Camera\obj\Release\net5.0-windows\ESP Camera.AssemblyInfo.cs
+C:\Users\ldngu\source\repos\ESP Camera\ESP Camera\obj\Release\net5.0-windows\ESP Camera.csproj.CoreCompileInputs.cache
